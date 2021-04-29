@@ -29,12 +29,8 @@ Users should be able to:
 ![](screenshotFolder/screenshotLargeScreen.png)
 
 - On Mobile Screen
+
 ![](screenshotFolder/mobileScreenshot.png)
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
